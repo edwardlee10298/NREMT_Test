@@ -1,0 +1,16 @@
+"""
+Different Constants
+"""
+import introcs
+import sys
+
+#GAME DIMENSIONS
+GAME_WIDTH  = 800
+GAME_HEIGHT = 700
+
+#DIFFERENT STATE VARIABLES
+STATE_INACTIVE = 0
+STATE_INTRO = 1
+STATE_A1  = 2
+STATE_A2   = 3
+STATE_B1   = 4
